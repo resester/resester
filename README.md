@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @resester
 - 👀 I’m interested in discovery.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
